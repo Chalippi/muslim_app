@@ -1,16 +1,16 @@
-# muslim_app
+# Muslim App (Nama Sementara)
 
-A new Flutter project.
+Sebuah aplikasi media sosial untuk muslim.
 
-## Getting Started
+## Development
 
-This project is a starting point for a Flutter application.
+Aplikasi ini masih dalam masa pengembangan. Fitur yang akan ada pada aplikasi ini antara lain:
+- Jadwal Sholat
+- Adzan
+- Al-Quran
+- Arah kiblat
+- Media Sosial
+- Berita
+- Hadits Harian
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
